@@ -5,9 +5,9 @@
 </picture>
 
 
-- 🔭 I’m Eisenge
-- 🌱 I’m currently learning javascript
-- 🤔 I’m working in Shenzhen
+- 👨‍💻 I’m Eisenge
+- ✍️ I’m currently learning javascript
+- 🏡 I’m working in Shenzhen
 - 📫 How to reach me: lishihchiehn@gmail.com
 - ⚡ Fun fact: My major is German
 
