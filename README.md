@@ -10,3 +10,7 @@
 - 🤔 I’m working in Shenzhen
 - 📫 How to reach me: lishihchiehn@gmail.com
 - ⚡ Fun fact: My major is German
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
