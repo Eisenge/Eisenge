@@ -13,4 +13,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [尝试开始用RSS获取资讯](https://eisenge.com/0003-2/)
+- [被安利到写博客的深度好文](https://eisenge.com/0002-2/)
+- [和学习有关的动机、价值和意义](https://eisenge.com/0001-2/)
 <!-- BLOG-POST-LIST:END -->
